@@ -26,16 +26,7 @@ This repository is built for learning purposes — covering topics such as:
 
 ### 🐍 [Python-Tutorial](https://github.com/BeelzebubCode/Python-Tutorial)
 
-A step-by-step Python learning resource — organized from fundamental syntax to practical scripting.
-
-Includes:
-
-- Control flow, functions, OOP
-- File & system operations
-- Mini projects and automation scripts
-- Python applied in cybersecurity contexts
-
-Ideal for beginners who want to learn Python with real-world examples.
+A personal code repository for Python — storing practice files, mini scripts, and experiments.
 
 ---
 
