@@ -6,8 +6,6 @@
 
 ## 📦 Repositories
 
----
-
 ### 🔐 [Cyber-Tutorial](https://github.com/BeelzebubCode/Cyber-Tutorial)
 
 ---
