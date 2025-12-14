@@ -10,7 +10,7 @@
 
 ---
 
-### 🐍 [Python-Tutorial](https://github.com/BeelzebubCode/Python-Tutorial)
+### 🐍 [Malware](https://github.com/BeelzebubCode/Malware)
 
 ---
 
