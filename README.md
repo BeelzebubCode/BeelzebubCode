@@ -23,10 +23,6 @@ structured experimentation and documentation.
 
 ## Featured Repositories
 
-- **Cyber-Security**  
-  Security fundamentals, labs, and learning notes  
-  🔗 https://github.com/BeelzebubCode/Cyber-Security
-
 - **Malware**  
   Educational malware research and lab-based experiments  
   🔗 https://github.com/BeelzebubCode/Malware
