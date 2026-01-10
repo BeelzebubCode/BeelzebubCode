@@ -23,6 +23,10 @@ structured experimentation and documentation.
 
 ## Featured Repositories
 
+- **Python-Tutorial**  
+  Python fundamentals, algorithms, data structures, and academic practice  
+  🔗 https://github.com/BeelzebubCode/Python-Tutorial
+
 - **Malware**  
   Educational malware research and lab-based experiments  
   🔗 https://github.com/BeelzebubCode/Malware
