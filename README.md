@@ -47,13 +47,22 @@ Offensive Security          Defensive Security
 **Security Tools**
 
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Bettercap](https://img.shields.io/badge/Bettercap-FF0000?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square)
+![Nessus](https://img.shields.io/badge/Nessus-00B4E3?style=flat-square)
+![Bettercap](https://img.shields.io/badge/Bettercap-FF0000?style=flat-square)
 ![Aircrack](https://img.shields.io/badge/Aircrack--ng-black?style=flat-square)
 ![Hashcat](https://img.shields.io/badge/Hashcat-2F2F2F?style=flat-square)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square)
+![ffuf](https://img.shields.io/badge/ffuf-00ff9f?style=flat-square&logoColor=black)
+
+**OSINT & Recon**
+
+![Maltego](https://img.shields.io/badge/Maltego-0E86D4?style=flat-square)
+![theHarvester](https://img.shields.io/badge/theHarvester-FF6B35?style=flat-square)
+![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=flat-square)
+![OSINT Framework](https://img.shields.io/badge/OSINT_Framework-2F2F2F?style=flat-square)
 
 **Programming**
 
