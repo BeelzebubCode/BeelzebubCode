@@ -87,8 +87,8 @@ Offensive Security          Defensive Security
 ## 📝 Latest Writeups
 
 <!-- BLOG-POST-LIST:START -->
-- 🔴 [MITM Attack using Bettercap — ARP Spoofing & Credential Capture](https://medium.com/@phaethon404)
-- 📡 [WPA2 Wireless Attack — Handshake Capture & Hashcat Cracking](https://medium.com/@phaethon404)
+- 🔴 [MITM Attack using Bettercap — ARP Spoofing & Credential Capture](https://phaethon404.medium.com/lab-writeup-man-in-the-middle-attack-mitm-using-bettercap-1c5e6c8f6f72)
+- 📡 [WPA2 Wireless Attack — Handshake Capture & Hashcat Cracking](https://phaethon404.medium.com/lab-writeup-wpa2-wireless-network-attack-simulation-fad3b5f8e9e0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
