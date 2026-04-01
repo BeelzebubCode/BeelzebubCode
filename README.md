@@ -84,8 +84,6 @@ Offensive Security          Defensive Security
 
 ---
 
----
-
 ## 📝 Latest Writeups
 
 <!-- BLOG-POST-LIST:START -->
