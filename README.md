@@ -84,16 +84,6 @@ Offensive Security          Defensive Security
 
 ---
 
-## 🏆 CTF Achievements
-
-```
-PSRU Cyber Hackathon 2026  ████████████████████  🥇 Top 5
-ARCHA CTF 2026             ████████████████░░░░  🎯 Top 25
-Hack The Scammer CTF 2025  ██░░░░░░░░░░░░░░░░░░  ⚡ Debut Entry
-
-Progression: 100+ → 25 → Top 5  (4 months)
-```
-
 ---
 
 ## 📝 Latest Writeups
@@ -109,7 +99,7 @@ Progression: 100+ → 25 → Top 5  (4 months)
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BeelzebubCode&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00ff9f&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BeelzebubCode&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BeelzebubCode&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9f&text_color=c9d1d9)
 
