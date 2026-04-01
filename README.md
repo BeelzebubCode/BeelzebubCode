@@ -95,10 +95,6 @@ Offensive Security          Defensive Security
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BeelzebubCode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00ff9f&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BeelzebubCode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9f&text_color=c9d1d9)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=BeelzebubCode&theme=dark&hide_border=true&background=0d1117&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f)
 
 ---
