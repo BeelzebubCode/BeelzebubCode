@@ -93,12 +93,6 @@ Offensive Security          Defensive Security
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=BeelzebubCode&theme=dark&hide_border=true&background=0d1117&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f)
-
----
-
 ## ⚠️ Disclaimer
 
 > All repositories and code in this profile are intended for **educational, academic, and defensive research purposes only.**
