@@ -22,7 +22,7 @@
 
 ```bash
 $ whoami
-> CS Year 3 @ Naresuan University
+> CS Year 4 @ Naresuan University
 > Focus   : Network Security · Penetration Testing · Malware Analysis
 > Status  : [ LEARNING ] — always
 > Philosophy : "Effort without direction is noise. I choose both."
