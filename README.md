@@ -85,7 +85,7 @@ Offensive Security          Defensive Security
 | Project | Description | Stack |
 |---|---|---|
 | [🔬 Malware](https://github.com/BeelzebubCode/Malware) | Keylogger with AES-CBC encryption — compiled to EXE and reverse engineered with Ghidra | Python · PyInstaller · Ghidra |
-| [🔐 Cryptography](https://github.com/BeelzebubCode/cryptography) | Full-stack Vigenère Cipher web app with REST API | Python · FastAPI · JavaScript |
+| [🔐 Cryptography](https://github.com/BeelzebubCode/cryptogaphy) | Full-stack Vigenère Cipher web app with REST API | Python · FastAPI · JavaScript |
 | [🖼 Image Processing & ML](https://github.com/BeelzebubCode/digital-image-processing-ml-labs) | Real-world digit recognition for electric meter reading + YOLO object detection | Python · OpenCV · TensorFlow |
 | [💊 Wellness Platform](https://github.com/BeelzebubCode/wellness-demo1) | Full-stack web app handling 2M+ records with AI assistant integration | Next.js · PostgreSQL · Prisma |
 | [🐍 Python Tutorial](https://github.com/BeelzebubCode/Python-Tutorial) | Algorithms, data structures and academic practice | Python |
